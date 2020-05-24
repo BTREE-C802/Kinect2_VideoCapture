@@ -1,0 +1,4 @@
+# depth maps
+# file: 'Kinect2.0_###.zip'
+# timestamp filename
+2001021001.295800 depth/2001021001.295800.png

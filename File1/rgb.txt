@@ -1,0 +1,4 @@
+# color images
+# file: 'Kinect2.0_###.zip'
+# timestamp filename
+2001021001.313700 rgb/2001021001.313700.png
